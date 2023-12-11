@@ -1,4 +1,4 @@
-# note
+# note for myself
 <br>
 git init<br>
 git remote add origin "your git reposistory address ex) "<br>
