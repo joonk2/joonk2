@@ -3,7 +3,7 @@
 ## About Me
 being able to learn what i want on a good healthy condition is such a bless. 
 <br>
-Feel free to contact me!
+Feel free to look around my world!
 - 📧 **Gmail**: with.joonk@gmail.com
 - 🗂 **Notion**: [Joonhwan dailyBlog](https://www.notion.so/joonk2/59190ba1b7fb4d5d86f486d08f242558?v=a4e397d7ac3848fa9588b284b61825df)
 
