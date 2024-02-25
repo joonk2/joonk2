@@ -23,10 +23,3 @@ Feel free to look around my diary!
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joonhwan10/)](https://www.instagram.com/joonhwan10/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwbm312@gmail.com)](mailto:with.joonk@gmail.com)
 [![Kaggle Badge](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/joonhwanko)
-
-
-<br>
-<br>
-
-# Click a carrot
-[![당근](https://img.freepik.com/premium-vector/cute-carrot-character-with-sale-sign_161751-2270.jpg?w=500)](https://joonk2.github.io/)
