@@ -1,7 +1,8 @@
 # Joonhwan.Ko
+```
 being able to learn what i want on a good healthy condition is such a bless. 
-<br>
 Feel free to look around my diary!
+```
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwbm312@gmail.com)](mailto:with.joonk@gmail.com) <br>
