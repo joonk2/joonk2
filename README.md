@@ -1,6 +1,4 @@
 # Joonhwan.Ko
-
-## About Me
 being able to learn what i want on a good healthy condition is such a bless. 
 <br>
 Feel free to look around my diary!
