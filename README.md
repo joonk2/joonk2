@@ -1,4 +1,4 @@
-# Joonhwan.Ko
+# <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Joonhwan.Ko</h1>
 ```
 being able to learn what i want on a good healthy condition is such a bless. 
 Feel free to look around my diary!
