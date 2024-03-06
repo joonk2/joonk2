@@ -9,7 +9,7 @@ Feel free to look around my diary!
 
 ## blog & learn
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://https://joonk2.github.io)](https://joonk2.github.io) <br>
-<a href="https://www.notion.so/joonk2/59190ba1b7fb4d5d86f486d08f242558?v=a4e397d7ac3848fa9588b284b61825df"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> <br>
+[![Dev Blog2](https://img.shields.io/badge/Dev%20Blog2-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/joonk2/59190ba1b7fb4d5d86f486d08f242558?v=a4e397d7ac3848fa9588b284b61825df) <br>
 [![Kaggle Badge](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/joonhwanko)
 
 ## Projects
