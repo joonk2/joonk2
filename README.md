@@ -8,13 +8,14 @@ Feel free to look around my diary!
 - data model structure making
 
 ## blog & learn
-[![joonk2](https://img.shields.io/badge/joonk2-green)](https://joonk2.github.io) <br>
+[![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://https://joonk2.github.io)](https://joonk2.github.io) <br>
 <a href="https://www.notion.so/joonk2/59190ba1b7fb4d5d86f486d08f242558?v=a4e397d7ac3848fa9588b284b61825df"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> <br>
 [![Kaggle Badge](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/joonhwanko)
 
 ## Projects
 -
 
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)](https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)
 ## Experience
 - ? `(2024.x ~ 2024.x)`
 
