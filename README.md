@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/joonk2/mySvg/main/joonk2.gif" style="height: 300px"/> <br>
-[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)](https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)
 ```
 being able to learn what i want on a good healthy condition is such a bless. 
 Feel free to look around my diary!
 ```
+
 ## Focused on
 - data analytics (by python)
 - data model structure making
+
+## Resume
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)](https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)
 
 ## blog & learn
 [![Blog Badge](http://img.shields.io/badge/-%20Blog-316B83?style=flat&logo=github&link=https://https://joonk2.github.io)](https://joonk2.github.io) <br>
