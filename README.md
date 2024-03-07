@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joonk2/mySvg/main/joonk2.gif" style="height: 300px"/> <br>
+<img src="https://raw.githubusercontent.com/joonk2/mySvg/main/joonk2.gif" style="height: 400px"/> <br>
 ```
 being able to learn what i want on a good healthy condition is such a bless. 
 Feel free to look around my diary!
