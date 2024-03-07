@@ -1,4 +1,5 @@
-# <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Joonhwan.Ko</h1>[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)](https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)
+<img src="https://raw.githubusercontent.com/joonk2/mySvg/main/joonk2.gif" style="height: 300px"/> <br>
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)](https://www.notion.so/joonk2/e9eb3774f2f342a3b0d6ac0b32baa97d)
 ```
 being able to learn what i want on a good healthy condition is such a bless. 
 Feel free to look around my diary!
