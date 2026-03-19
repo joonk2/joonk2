@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Programmers Badge](https://raw.githubusercontent.com/joonk2/programmers-stats/main/output/result.svg)
 <!--
 **joonk2/joonk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
